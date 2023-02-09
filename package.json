@@ -1,0 +1,13 @@
+{
+	"name": "tyger",
+	"version": "0.0.2",
+	"description": "Next generation reactivity.",
+	"license": "AGPL-3.0-or-later",
+	"repository": "github:krulod/tyger",
+	"type": "module",
+	"main": "./dist/index.js",
+	"typings": "./dist/index.d.ts",
+	"devDependencies": {
+		"@krulod/sorcerer": "0.0.3"
+	}
+}
