@@ -7,7 +7,7 @@
 		"moduleResolution": "node",
 		"experimentalDecorators": true,
 		"declaration": true,
-		"outDir": "dist"
+		"outDir": "dist",
 	},
-	"files": ["./index.ts"]
+	// "files": ["./index.ts"],
 }
